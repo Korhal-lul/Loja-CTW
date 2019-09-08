@@ -1,0 +1,199 @@
+@font-face{
+    font-family: deca;
+    src: url("../Fonts/LexendDeca-Regular.ttf")
+}
+#hr {
+    color: #99bff7;
+    height: 5px;
+    background-color: #99bff7;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+#title {  
+    font-family: deca;
+    text-align: center;
+    color: #0069AA;
+}
+#title hr{
+    color: #84b4e8;
+    height: 10px;
+    background-color: #84b4e8;
+}
+
+#title2 {  
+    font-family: deca;
+    text-align: center;
+    color: #0069AA;
+}
+#title2 hr{
+    color: #84b4e8;
+    height: 10px;
+    background-color: #84b4e8;
+}
+.text p{
+    font-family: deca;
+    text-align: center;
+    width: 50%;
+}
+
+.rodape{
+    
+    z-index: 2px;
+    height: 70px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: #027db3;
+    border: solid 1px #027db3; 
+}
+
+
+.rodape a{
+    font-family: deca;
+    font-language-override: normal;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+}
+.rodape a:hover{
+    color: #027db3;
+    background-color: white;
+}
+
+.endereco{
+    /*border: red 2px solid;*/
+    padding-top: 10px;
+    color: white;
+}
+
+.footer ul li p a{
+    color: white;
+}
+.wawa{
+    margin-top: 1%;
+    font-family: deca;
+    border-radius: 40px;
+    position: absolute;
+    left: 55%;
+}
+.wawa p{
+    font-family: deca;
+    font-size: 25px;
+    text-align: center;
+}
+.wawa a{
+    font-family: deca;
+    background-color: #0069AA;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-right: 6px;
+}
+.wawa a:hover{
+    font-family: deca;
+    background-color: white;
+    color: #0069AA;
+    text-decoration: none;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-right: 6px;
+}
+.wawa li{
+    font-family: deca;
+    font-size: 18px;
+    list-style-type: none;
+}
+.wawa h5
+{
+    font-family: deca;
+    font-size: 40px;
+    color: #0069AA;
+    text-align: center;
+}
+.wawa2{
+    font-family: deca;
+    margin-top: 1%;
+    border-radius: 40px;
+    position: absolute;
+    right: 55%;
+}
+.wawa2 a{
+    font-family: deca;
+    background-color: #0069AA;
+    color: white;
+    text-decoration: none;
+    position: static;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-right: 6px;
+}
+
+.wawa2 p{
+    font-family: deca;
+    font-size: 25px;
+    text-align: center;
+}
+.wawa2 a:hover{
+    font-family: deca;
+    background-color: white;
+    color: #0069AA;
+    text-decoration: none;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-right: 6px;
+}
+.wawa2 li{
+    font-family: deca;
+    font-size: 18px;
+    list-style-type: none;
+}
+.wawa2 h5
+{
+    font-family: deca;
+    font-size: 40px;
+    color: #0069AA;
+    text-align: center;
+}
+
+.espaco{
+    margin-top: 650px;
+}
+
+.map{
+    border: solid #0069AA 4px;
+}
